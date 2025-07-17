@@ -5,3 +5,4 @@ ipython
 tqdm
 tensorflow
 opencv-python
+ipykernel
