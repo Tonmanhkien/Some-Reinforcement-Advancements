@@ -6,3 +6,5 @@ tqdm
 tensorflow
 opencv-python
 ipykernel
+pygame
+gym[box2d]
